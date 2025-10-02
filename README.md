@@ -56,14 +56,6 @@ September 2022
 since 2020
 - Started with Python then later on progressed to other languages and framework.     
 
----
-
-## 📫 Contact
-
-- **Email:** enevaldbravo80@gmail.com
-- **Location:** Mombasa, Kenya
-
----
 
 <!--
 Add your featured projects, social links, or a favorite quote here!
